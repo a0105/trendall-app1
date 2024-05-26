@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70f40816.css",
+    "main.js": "/static/js/main.f4f28e95.js",
+    "static/js/453.594b5b25.chunk.js": "/static/js/453.594b5b25.chunk.js",
+    "static/media/study room view.jpg": "/static/media/study room view.b37b4709034144947f0e.jpg",
+    "static/media/advancedsearch.png": "/static/media/advancedsearch.95d73ba33348b6582ad8.png",
+    "static/media/latrobe-logo.png": "/static/media/latrobe-logo.a336734d8e3a425475f2.png",
+    "static/media/images.jpeg": "/static/media/images.dd580df2a9d627dda4e2.jpeg",
+    "index.html": "/index.html",
+    "main.70f40816.css.map": "/static/css/main.70f40816.css.map",
+    "main.f4f28e95.js.map": "/static/js/main.f4f28e95.js.map",
+    "453.594b5b25.chunk.js.map": "/static/js/453.594b5b25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70f40816.css",
+    "static/js/main.f4f28e95.js"
+  ]
+}
